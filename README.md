@@ -1,13 +1,26 @@
-- 👋 Hola, soy Juan Felipe Lamos (@juanfelipe162532)
+💻 Desarrollador Full Stack | Integraciones, IA y Arquitecturas Escalables
 
-. 👀 Estoy interesado en el Desarrollo de Software
-. 🌱 Actualmente estoy estudiando Tecnología en Análisis y Desarrollo de Software en el SENA, Cali - Valle del Cauca
-- 💞️ Me gustaría colaborar con la Administración Nacional de Aeronáutica y del Espacio (NASA)
-- 📫 Puedes contactarme a través de: felipelamos2003@hotmail.com
-- 😄 Pronombres: Él
-- ⚡ Dato curioso: Tengo 6 años de experiencia como Desarrollador Web en Troqueladoras Colombianas, con enfoque en la creación de sitios web responsivos y pruebas de usabilidad que han reducido errores en un 60%.
+Apasionado por diseñar y desarrollar soluciones tecnológicas que combinan rendimiento, escalabilidad y experiencia de usuario.
+Cuento con experiencia en el desarrollo de aplicaciones web y móviles usando Vue.js, React Native, Node.js y arquitecturas serverless.
+Mi enfoque se centra en optimizar flujos de trabajo, integrar sistemas y aplicar inteligencia artificial para resolver problemas complejos en diversos sectores.
 
-<!---
-juanfelipe162532/juanfelipe162532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Áreas de especialidad:
+
+Desarrollo frontend con Vue 3, TypeScript, Vuetify y TailwindCSS
+
+Backend con Node.js, Express y APIs REST/GraphQL
+
+Integración de IA y procesamiento de lenguaje natural
+
+Implementación en AWS (Lambda, EC2, SageMaker, S3, ECR)
+
+Automatización de procesos y mejora continua
+
+📍 Actualmente enfocado en:
+
+Integración de modelos LLM en aplicaciones reales
+
+Aplicaciones híbridas y optimización de UI/UX
+
+Desarrollo de herramientas internas y productos escalables
+
