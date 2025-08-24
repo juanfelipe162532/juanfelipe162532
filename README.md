@@ -45,11 +45,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfelipe162532&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfelipe162532&show_icons=true&theme=radical&cache_seconds=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanfelipe162532&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanfelipe162532&theme=radical&cache_seconds=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfelipe162532&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfelipe162532&layout=compact&theme=radical&cache_seconds=1)
 
 ---
 
