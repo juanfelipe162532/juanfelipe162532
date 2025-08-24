@@ -26,11 +26,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfelipe&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfelipe162532&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanfelipe&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanfelipe162532&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfelipe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfelipe1762532&layout=compact&theme=radical)
 
 ---
 
