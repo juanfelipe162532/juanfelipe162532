@@ -51,7 +51,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfelipe162532&layout=compact&theme=radical&cache_seconds=1)
 
----
+![Metrics](https://metrics.lecoq.io/juanfelipe162532?template=classic&isocalendar=1&languages=1&base=header, activity&config.timezone=America%2FBogota)
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanfelipe)  
