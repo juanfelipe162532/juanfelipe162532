@@ -64,5 +64,5 @@
 - **AI & Machine Learning** with open-source tools  
 - **Cloud & DevOps** with AWS and Docker  
 
-🎯 Goal: Contribute to impactful projects in **AI + Healthcare** and grow as a Full Stack Developer.   
+🎯 Goal: Contribute to impactful projects in **AI** and grow as a Full Stack Developer.   
 
