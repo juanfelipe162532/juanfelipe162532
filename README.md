@@ -1,11 +1,12 @@
 # 👋 Welcome, I'm Juan Felipe  
 
-## 🚀 About Me
-- 🌱 Passionate about Web & Mobile Development, AI, and Cloud  
-- 💡 Always learning new technologies and improving every day  
-- 🤝 I love collaborating on projects and sharing knowledge  
-- ☕ Coffee is my favorite programming partner  
-
+## 🚀 About Me  
+- 🌱 I’m passionate about **Web & Mobile Development, Artificial Intelligence, and Cloud Computing**. I enjoy building solutions that not only work but also create meaningful impact.  
+- 💡 I’m a curious learner, always exploring new technologies, frameworks, and tools to stay up to date in this fast-changing tech world.  
+- 🤝 I love collaboration and teamwork — I believe the best projects come from sharing knowledge, exchanging ideas, and growing together.  
+- ☕ Coffee is my favorite programming partner, fueling creativity and focus during long coding sessions.  
+- 🌍 My goal is to keep growing as a developer, contributing to impactful projects, and connecting with people who share the same passion for technology.  
+ 
 ---
 
 ## 🛠️ Technologies & Tools
@@ -44,6 +45,12 @@
 
 ---
 
+## 📂 Featured Projects  
+- [📱 Voltic App](https://github.com/tu-repo) – Electric scooter app with AWS, GPS & IoT integration  
+- [💻 FinanzIA](https://github.com/juanfelipe162532/FinanzIA_backend) – AI-powered financial assistant   
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfelipe162532&show_icons=true&theme=radical&cache_seconds=1)
 
@@ -51,8 +58,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfelipe162532&layout=compact&theme=radical&cache_seconds=1)
 
+---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanfelipe)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/juanfelipe)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://juanfelipe.dev)
+## 📖 Currently Learning  
+- Advanced **React & Vue patterns** for scalable applications  
+- **AI & Machine Learning** with open-source tools  
+- **Cloud & DevOps** with AWS and Docker  
+
+🎯 Goal: Contribute to impactful projects in **AI + Healthcare** and grow as a Full Stack Developer.   
+
